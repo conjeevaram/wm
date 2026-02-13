@@ -1,0 +1,6 @@
+data/*
+!data/.gitkeep
+/av_perception*
+.venv/
+pyproject.toml
+uv.lock
